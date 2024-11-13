@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Fuel_Report.io/static/css/main.d009ac60.css",
-    "main.js": "/React_Fuel_Report.io/static/js/main.624ac1e3.js",
+    "main.js": "/React_Fuel_Report.io/static/js/main.cd40de32.js",
     "static/js/488.6ae07137.chunk.js": "/React_Fuel_Report.io/static/js/488.6ae07137.chunk.js",
     "index.html": "/React_Fuel_Report.io/index.html",
     "main.d009ac60.css.map": "/React_Fuel_Report.io/static/css/main.d009ac60.css.map",
-    "main.624ac1e3.js.map": "/React_Fuel_Report.io/static/js/main.624ac1e3.js.map",
+    "main.cd40de32.js.map": "/React_Fuel_Report.io/static/js/main.cd40de32.js.map",
     "488.6ae07137.chunk.js.map": "/React_Fuel_Report.io/static/js/488.6ae07137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d009ac60.css",
-    "static/js/main.624ac1e3.js"
+    "static/js/main.cd40de32.js"
   ]
 }
